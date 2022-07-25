@@ -26,6 +26,11 @@
     align-items: center;
 }
 
+#startGame {
+    font-size: 30px;
+    border-radius: 10px;
+}
+
 #startGame:hover {
     cursor: pointer;
     background-color: black;
@@ -53,11 +58,6 @@ h2 {
 
 p span {
     color: lemonChiffon;
-}
-
-#startGame {
-    font-size: 60px;
-    border-radius: 10px;
 }
 
 button {
